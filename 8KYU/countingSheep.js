@@ -22,8 +22,8 @@ function countSheep (arrayOfSheep) {
 	if(sheep) {
 		count++
 	}
-	})
-	return count
+})
+return count
 }
 
 // END //
