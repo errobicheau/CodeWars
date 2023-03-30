@@ -17,7 +17,7 @@ After your function finds the needle it should return a message (as a string) th
 
 // SOLUTION //
 
-funciton findNeedle(haystack) {
+function findNeedle(haystack) {
 	for (i = 0; i < haystack.length; i++) {
 	if('haystack'){
 	return `found the needle at position ${haystack.indexOf('needle')}`
