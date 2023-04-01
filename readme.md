@@ -1,5 +1,5 @@
 # [CodeWars Challenges](https://github.com/errobicheau/CodeWars)
-A repisority filled with CodeWars challenges (katas) and their solutions. 5+ solutions are pushed each week.
+A repisority filled with CodeWars challenges (katas) and their solutions. 7+ solutions are pushed each week.
 
 ## How It's Made:
 
