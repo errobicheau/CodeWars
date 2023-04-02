@@ -1,9 +1,5 @@
-# CodeWars Challenges
+# [CodeWars Challenges](https://github.com/errobicheau/CodeWars)
 A repisority filled with CodeWars challenges (katas) and their solutions. 5+ solutions are pushed each week.
-
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
-
-![alt tag](http://placecorgi.com/1200/650)
 
 ## How It's Made:
 
