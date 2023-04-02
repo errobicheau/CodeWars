@@ -19,7 +19,6 @@ Dog Years
 +5 dog years for each year after that
 */
 
-
 // SOLUTION //
 
 const humanYearsCatYearsDogYears = function(age) {
