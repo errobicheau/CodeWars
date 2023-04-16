@@ -10,7 +10,6 @@ function noOdds(arr){
     return arr.filter(a => a%2 === 0)
   }
 
-
 // REFACTORED SOLUTION //
 
 const noOdds = arr => arr.filter(a => a%2 === 0)
