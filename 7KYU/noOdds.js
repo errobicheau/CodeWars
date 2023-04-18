@@ -6,9 +6,11 @@ All values in the array will be integers. Return the good values in the order th
 
 //ORIGINAL SOLUTION //
 
+/*
 function noOdds(arr){
     return arr.filter(a => a%2 === 0)
   }
+  */
 
 // REFACTORED SOLUTION //
 
