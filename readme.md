@@ -13,5 +13,5 @@ In practice, I cosistently refactor and optimize my code keeping both efficiency
 
 ## Lessons Learned:
 
-The largest takeaway from CodeWars challeneges has been managing frustration through problem solving in programming- I have learneda to break each problem down into much more manageable pieces and make a worthwhile attempt to solve as much of each kata as possible before seeking additional help.
+The largest takeaway from CodeWars challeneges has been managing frustration through problem solving in programming- I have learned to break each problem down into much more manageable pieces and make a worthwhile attempt to solve as much of each kata as possible before seeking additional help.
 
