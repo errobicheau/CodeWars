@@ -1,4 +1,4 @@
-// CODEWARS 2023-03-22 //
+// CODEWARS 2023-3-22 //
 
 /* The objective of Duck, duck, goose is to walk in a circle, tapping on each player's head until one is chosen.
 
