@@ -1,4 +1,4 @@
-// CodeWars 2023-4-28 // 
+// CodeWars 2023-4-28 //
 
 /* 
 You are given a string containing a sequence of character sequences separated by commas.
