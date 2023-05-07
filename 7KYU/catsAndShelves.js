@@ -35,10 +35,10 @@ Start 1, finish 5, then answer is 2 (1 => 4 => 5 or 1 => 2 => 5)
 
 // SOLUTION //
 
-function solution(start, finish) {
+function solution(start, finish){
     let threeJumps = Math.floor((finish-start)/3);
     let oneJump = (finish-start)%3;
     return threeJumps+oneJump;
-  }
+}
 
 // END //
