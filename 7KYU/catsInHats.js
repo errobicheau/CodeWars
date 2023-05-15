@@ -1,6 +1,5 @@
 // CodeWars 2023-5-16 //
 
-
 /* Description: 
 The Cat In The Hat has cat A under his hat, cat A has cat B under his hat and so on until Z
 
@@ -15,6 +14,7 @@ Counting starts from the Cat In The Hat
 n = the number of cats
 
 fix to 3 decimal places. */
+
 
 // SOLUTION //
 
