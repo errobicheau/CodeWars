@@ -1,4 +1,4 @@
-// CodeWars 2023-6-24 //
+// CodeWars 2023-6-23 //
 
 /* Description: 
 Given an array of ones and zeroes, convert the equivalent binary value to an integer.
