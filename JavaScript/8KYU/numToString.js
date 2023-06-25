@@ -1,4 +1,4 @@
-// CodeWars 2023-06-23 //
+// CodeWars 2023-06-25 //
 
 /* Description: 
 We need a function that can transform a number (integer) into a string.
