@@ -1,4 +1,4 @@
-// CodeWars 01-01-2024 //
+// CodeWars 2024-01-01 //
 
 /* Description: Create a function that takes two arguments:
 
