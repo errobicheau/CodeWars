@@ -3,7 +3,7 @@ A repisority filled with CodeWars challenges (katas) and their solutions. 7+ sol
 
 ## How It's Made:
 
-**Tech used:** !
+**Tech used:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/erobi14)
 
 ## Optimizations
