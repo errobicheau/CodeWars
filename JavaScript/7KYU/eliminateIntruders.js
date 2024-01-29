@@ -9,7 +9,7 @@ Examples
 eliminateUnsetBits("11010101010101") ->  255 (= 11111111)
 eliminateUnsetBits("111") ->  7
 eliminateUnsetBits("1000000") -> 1
-eliminateUnsetBits("000") -> 0 */
+eliminateUnsetBits("000") -> 0s */
 
 // SOLUTION //
 
