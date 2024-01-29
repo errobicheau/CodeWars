@@ -1,11 +1,11 @@
 # [CodeWars Challenges](https://github.com/errobicheau/CodeWars)
-A repisority filled with CodeWars challenges (katas) and their solutions. 7+ solutions are pushed each week.
+A repisority filled with CodeWars challenges (katas) and their solutions. 7+ solutions are pushed each week. Part of my daily code practice routine includes solving at least one CodeWars kata!
 
 ## How It's Made:
 
-**Tech used:** ![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
+**Tech used:**
 
-Part of my daily code practice routine includes solving at least one CodeWars kata!
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/erobi14)
 
 ## Optimizations
 
